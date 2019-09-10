@@ -1,0 +1,1 @@
+~/Android/android-ndk-r20/ndk-build  NDK_APPLICATION_MK=./Application.mk NDK_PROJECT_PATH=./ -C ./ -Wint-conversion
