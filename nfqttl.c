@@ -531,7 +531,7 @@ int main(int argc, char **argv)
 
 	globalArgs.countsyn = 15;
 	globalArgs.counthttp = 12;
-	globalArgs.countpacket = 40;
+	globalArgs.countpacket = 80;
 
 	globalArgs.rth.fd = -1;
 
